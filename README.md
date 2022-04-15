@@ -4,4 +4,4 @@
 <h3 align="center"> 💻Passionate about IT technologies. Coding on Kotlin/Java✨</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriycode&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriycode)](https://github.com/yuriycode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriycode&layout=compact)](https://github.com/yuriycode/github-readme-stats)
