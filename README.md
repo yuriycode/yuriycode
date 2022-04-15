@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Yuriy Kravets 
+<h1 align="center">Hi there, I'm Yuriy Kravets
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align = "center"> Android Developer height="30" </h2>
 <h3 align="center"> 💻Passionate about IT technologies. Coding on Kotlin/Java✨</h3>
 
 <!--
