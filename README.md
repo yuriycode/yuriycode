@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align = "center"> Android Developer</h2>
 <h3 align="center"> 💻Passionate about IT technologies. Coding on Kotlin/Java✨</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyuriycode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuriycode/yuriycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
